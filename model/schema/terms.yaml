@@ -81,7 +81,7 @@ slots:
     is_a: core field
     title: analyses
     description: >
-      Terms to describe the types of analyses used inthe protocol [e.g., amplicon sequencing
+      Terms to describe the types of analyses used in the protocol [e.g., amplicon sequencing
       assay[OBI:0002767] or polymerase chain reaction[OBI:0002692]]
     range: string
     multivalued: true
@@ -138,7 +138,7 @@ slots:
     is_a: core field
     title: target
     description: >
-      Identify the target taxa, gene and/or moleculefor the protocol [e.g., Polaribacter [NCBITaxon:1642819],
+      Identify the target taxa, gene and/or molecule for the protocol [e.g., Polaribacter [NCBITaxon:1642819],
       16S Mitochondrial Ribosomal RNA [NCIT:C131261]].
     range: string
     multivalued: true
